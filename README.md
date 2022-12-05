@@ -30,7 +30,7 @@ React Router, Hooks, Context, Firebase, Authentication
 
 ## Stack utilizada
 
-**Front-end:** React, Styled Components
+**Front-end:** React, CSS
 
 **Back-End:** Firebase
 
